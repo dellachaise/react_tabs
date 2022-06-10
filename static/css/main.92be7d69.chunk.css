@@ -1,0 +1,2 @@
+.App{display:flex;flex-direction:column;justify-content:center;width:400px;margin:0 auto}.App__content{box-sizing:border-box;margin:0;font-size:24px}.tabs-list{display:flex;list-style-type:none;margin:0;padding:0}.tabs-list__item{padding:3px;border-bottom:1px solid gold}.tabs-list__item--selected{border:1px solid;border-color:gold gold #fff}.tabs-list__link{text-decoration:none;color:#000;font-size:26px}
+/*# sourceMappingURL=main.92be7d69.chunk.css.map */
